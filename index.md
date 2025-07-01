@@ -109,7 +109,7 @@ Linways Redmine Companion Chrome Extension ("we", "our", or "the extension") is 
 
 ### Support
 - **Developer**: Sibin C Baby
-- **Email**: [sibincbaby219@gmail.com]
+- **Email**: sibincbaby219@gmail.com
 
 ### Questions
 If you have questions about this privacy policy or data handling, please contact us through the support channels above.
